@@ -2,7 +2,7 @@ public class Hello{
 	
 	public static void main(String int[]) {
 		
-		System out println("Hello World"+"metoo"£©;
+		System out println("Hello World"+"metoo"+"22"£©;
 	}
 
 }
